@@ -35,6 +35,13 @@ const Main = () => {
             "https://images.unsplash.com/photo-1663666964492-0b8b83a6dd18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80"
           }
         />
+
+<Card
+          title={"agriculture"}
+          imag={
+            "https://images.unsplash.com/photo-1663666964492-0b8b83a6dd18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80"
+          }
+        />
       </div>
     </div>
   );
