@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Roboto:ital,wght@0,400;0,500;0,700;1,500&family=Work+Sans:wght@400;500&display=swap");
+
+.header {
+  display: flex;
+  background-color: rgb(255, 64, 64);
+  justify-content: space-around;
+  height: 10vh;
+  align-items: center;
+}
+
+.logo > h1 {
+  color: white;
+
+  text-transform: uppercase;
+  margin-right: 12rem;
+  font-family: "Work Sans", sans-serif;
+}
+
+
+
+.menu{
+
+cursor: pointer;
+
+}
